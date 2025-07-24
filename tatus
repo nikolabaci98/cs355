@@ -1,0 +1,32 @@
+[33mcommit fc93bae088e06cbe6ed635a67972fadde6f3bcef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nikola Baci <46806109+nikolabaci98@users.noreply.github.com>
+Date:   Thu Jul 24 11:36:01 2025 -0400
+
+    Update README.md
+
+[33mcommit 56087eb26f4f557af4764f1d94c63a3fecef5157[m
+Merge: ca25e6d dc7e602
+Author: Nikola Baci <46806109+nikolabaci98@users.noreply.github.com>
+Date:   Thu Jul 24 11:35:15 2025 -0400
+
+    Merge pull request #2 from nbaci/main
+    
+    Changed nikola.txt
+
+[33mcommit dc7e60218f6969a2fce585fcf9d9fe333b9ca02b[m
+Author: Nikola Baci <nikolabaci98@gmail.com>
+Date:   Thu Jul 24 11:30:06 2025 -0400
+
+    Changed nikola.txt
+
+[33mcommit ca25e6d4ccfd3f8b7d7919bba43325a2da4593fb[m
+Author: Nikola Baci <nikolabaci98@gmail.com>
+Date:   Wed Jul 23 12:06:27 2025 -0400
+
+    updated README.md and added all student files
+
+[33mcommit 37a9fe74b19df23092cf64a38e486e881d455491[m
+Author: Nikola Baci <46806109+nikolabaci98@users.noreply.github.com>
+Date:   Wed Jul 23 11:59:09 2025 -0400
+
+    Initial commit

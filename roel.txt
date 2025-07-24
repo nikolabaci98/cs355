@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ivan was here
+=======
+Hi I am Roel, a student in CS 355.
+>>>>>>> upstream/main
